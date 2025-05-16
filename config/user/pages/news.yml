@@ -3,22 +3,22 @@ subtitle: 互联网最新消息
 template: news
 categories:
   - name: 最新资讯
-    icon: fas fa-pen
+    icon: fas fa-newspaper
     sites:
       - name: 今日热榜
-        icon: fab fa-fire
+        icon: 
         description: 全网热点聚合助手
         url: "https://tophub.today"
       - name: 百度热搜
-        icon: fab fa-paw
+        icon: 
         description: 百度实时热点
         url: "https://top.baidu.com/board?tab=realtime"
       - name: 微博热搜
-        icon: fab fa-git-eye
+        icon: 
         description: 微博实时热点
         url: "https://s.weibo.com/top/summary?cate=realtimehot"
       - name: 网易新闻
-        icon: fab fa-newspaper
+        icon: 
         description: 网易新闻
         url: "https://news.163.com"
         
