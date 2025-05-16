@@ -8,7 +8,7 @@ categories:
       - name: DeepSeek
         icon: fas fa-comments
         description: 深度求索旗下的智能AI
-        url: "hhttps://chat.deepseek.com"
+        url: "https://chat.deepseek.com"
       - name: ChatGPT
         icon: fas fa-comments
         description: OpenAI旗下的智能AI
