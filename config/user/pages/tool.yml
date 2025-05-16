@@ -6,23 +6,23 @@ categories:
     icon: fas fa-robot
     sites:
       - name: DeepSeek
-        icon: 
+        icon: fab fa-deepseek
         description: 深度求索旗下的智能AI
         url: "hhttps://chat.deepseek.com"
       - name: ChatGPT
-        icon: 
+        icon: fab fa-chatgpt
         description: OpenAI旗下的智能AI
         url: "https://chatgpt.com"
       - name: Gemini
-        icon: 
+        icon: fab fa-gemini
         description: Google旗下的智能AI
         url: "https://gemini.google.com"
       - name: Grok
-        icon: 
+        icon: fab fa-grok
         description: Twitter旗下的智能AI
         url: "https://x.ai"
       - name: Claude
-        icon: 
+        icon: fab fa-claude
         description: 任务自动化智能AI
         url: "https://claude.ai"
   - name: 网络测试
