@@ -26,25 +26,49 @@ categories:
         description: 任务自动化智能AI
         url: "https://claude.ai"
   - name: 网络测试
-    icon: fas fa-network
+    icon: fas fa-ethernet
     sites:
       - name: ITDOG
-        icon: 
+        icon: fas fa-globe
         description: 测试IP和网站连通性
         url: "https://www.itdog.cn"
       - name: PING0
-        icon: 
+        icon: fas fa-globe
         description: 查看当前IP地址质量
         url: "https://ping0.cc"
       - name: IP138
-        icon: 
+        icon: fas fa-globe
         description: 查询IP归属地
         url: "https://www.ip138.com"
       - name: FAST
-        icon: 
+        icon: fas fa-stopwatch
         description: Netflix出品的网络测速工具
         url: "https://fast.com"
       - name: Test-IPv6
-        icon: 
+        icon: fas fa-globe
         description: 测试网络是否支持IPV6
         url: "https://test-ipv6.com"
+  - name: 效率
+    icon: fas fa-screwdriver-wrench
+    sites:
+      - name: Time.is
+        icon: fas fa-clock
+        description: 全球精确的原子钟时间
+        url: "https://time.is"
+      - name: 在线PS
+        icon: fas fa-file-image
+        description: 稿定在线PS
+        url: "https://ps.gaoding.com"
+      - name: ALL TO ALL
+        icon: fas fa-file
+        description: 文件格式在线转换
+        url: "https://www.alltoall.net"
+      - name: 文本比较
+        icon: fas fa-files
+        description: 对比两个文本的差异
+        url: "https://charactercalculator.com/zh-cn/text-compare"
+      - name: 在线工具
+        icon: fas fa-toolbox
+        description: 在线工具箱
+        url: "https://tool.lu"
+        
