@@ -1,0 +1,38 @@
+title: 互联网
+subtitle: 互联网之旅
+template: net
+categories:
+  - name: 科技社区
+    icon: fas fa-user-group
+    sites:
+      - name: 远景
+        icon: fas fa-user-group
+        description: 老牌极客社区
+        url: "https://bbs.pcbeta.com"
+      - name: V2EX
+        icon: fas fa-terminal
+        description: 创意工作者们的社区
+        url: "https://www.v2ex.com"
+      - name: Linux.do
+        url: https://linux.do/
+        icon: fab fa-linux
+        description: 新的理想型社区
+  - name: 科技资讯
+    icon: fas fa-newspaper
+    sites:
+      - name: IT之家
+        icon: fas fa-house
+        description: 软媒旗下科技门户
+        url: "https://www.ithome.com"
+      - name: 数字尾巴
+        icon: fas fa-fish
+        description: 分享美好数字生活
+        url: "https://www.dgtle.com"
+      - name: 极客公园
+        icon: fas fa-g
+        description: 科技领域的前沿报道
+        url: "https://www.geekpark.net"
+      - name: 蓝点网
+        icon: fas fa-circle
+        description: 给你感兴趣的内容
+        url: "https://www.landiannews.com"
