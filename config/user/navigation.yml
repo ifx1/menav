@@ -2,12 +2,12 @@
   icon: fas fa-home
   id: home
   active: true
-- name: 资讯
+- name: 新闻
   icon: fas fa-newspaper
   id: news
-- name: 科技
+- name: 互联网
   icon: fas fa-terminal
-  id: tech
+  id: net
 - name: 工具
   icon: fas fa-toolbox
   id: tool
