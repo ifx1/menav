@@ -2,7 +2,15 @@
   icon: fas fa-home
   id: home
   active: true
-- name: 书签
-  icon: fas fa-bookmark
-  id: bookmarks
-  
+- name: 资讯
+  icon: fas fa-newspaper
+  id: news
+- name: 科技
+  icon: fas fa-terminal
+  id: tech
+- name: 工具
+  icon: fas fa-wrench
+  id: tool
+- name: 趣站
+  icon: fas fa-face-smile
+  id: fun 
