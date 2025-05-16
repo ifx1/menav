@@ -32,7 +32,7 @@ categories:
         icon: 
         description: 测试IP和网站连通性
         url: "https://www.itdog.cn"
-        - name: PING0
+      - name: PING0
         icon: 
         description: 查看当前IP地址质量
         url: "https://ping0.cc"
