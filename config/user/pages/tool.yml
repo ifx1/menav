@@ -1,1 +1,50 @@
-
+title: 工具
+subtitle: 各种实用工具
+template: tool
+categories:
+  - name: AI
+    icon: fas fa-robot
+    sites:
+      - name: DeepSeek
+        icon: 
+        description: 深度求索旗下的智能AI
+        url: "hhttps://chat.deepseek.com"
+      - name: ChatGPT
+        icon: 
+        description: OpenAI旗下的智能AI
+        url: "https://chatgpt.com"
+      - name: Gemini
+        icon: 
+        description: Google旗下的智能AI
+        url: "https://gemini.google.com"
+      - name: Grok
+        icon: 
+        description: Twitter旗下的智能AI
+        url: "https://x.ai"
+      - name: Claude
+        icon: 
+        description: 任务自动化智能AI
+        url: "https://claude.ai"
+  - name: 网络测试
+    icon: fas fa-network
+    sites:
+      - name: ITDOG
+        icon: 
+        description: 测试IP和网站连通性
+        url: "https://www.itdog.cn"
+        - name: PING0
+        icon: 
+        description: 查看当前IP地址质量
+        url: "https://ping0.cc"
+      - name: IP138
+        icon: 
+        description: 查询IP归属地
+        url: "https://www.ip138.com"
+      - name: FAST
+        icon: 
+        description: Netflix出品的网络测速工具
+        url: "https://fast.com"
+      - name: Test-IPv6
+        icon: 
+        description: 测试网络是否支持IPV6
+        url: "https://test-ipv6.com"
