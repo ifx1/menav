@@ -13,4 +13,5 @@
   id: friends
 - name: 书签
   icon: fas fa-bookmark
-  id: bookmarks 
+  id: bookmarks
+  
