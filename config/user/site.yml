@@ -1,0 +1,38 @@
+title: Neo的导航
+description: 个人网络导航站
+author: Neo
+favicon: favicon.ico
+logo_text: 导航站
+
+fonts:
+  title:
+    family: Poppins
+    weight: 600
+    source: google
+  subtitle:
+    family: Quicksand
+    weight: 500
+    source: google
+  body:
+    family: Noto Sans SC
+    weight: 400
+    source: google
+    
+profile:
+  title: 欢迎来到我的导航站
+  subtitle: 收集实用网站和工具
+  description: 这里整理了我日常使用的网站和工具，方便快速访问。
+
+social:
+  - name: GitHub
+    url: https://github.com
+    icon: fab fa-github
+  - name: Telegram
+    url: https://t.me
+    icon: fab fa-telegram
+  - name: Twitter
+    url: https://twitter.com
+    icon: fab fa-twitter
+  - name: Steam
+    url: https://steam.com
+    icon: fab fa-steam 
