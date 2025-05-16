@@ -1,1 +1,24 @@
+title: 趣站
+subtitle: 一些有趣的网站
+template: fun
+categories:
+  - name: 有点意思
+    icon: fas fa-face-smile
+    sites:
+      - name: 自由钢琴
+        icon: fab fa-piano-keyboard
+        description: 在线弹钢琴
+        url: "https://www.autopiano.cn"
+      - name: 世界的声音
+        icon: fab fa-ear-listen
+        description: 听不同语言怎么说
+        url: "https://www.localingual.com"
+      - name: 网站博物馆
+        icon: fab fa-timeline
+        description: 互联网的记忆
+        url: "https://www.webdesignmuseum.org"
+      - name: 世界名画博物馆
+        icon: fab fa-landmark
+        description: 欣赏一下艺术
+        url: "https://gallerix.asia"
 
