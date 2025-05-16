@@ -9,7 +9,7 @@
   icon: fas fa-terminal
   id: tech
 - name: 工具
-  icon: fas fa-wrench
+  icon: fas fa-toolbox
   id: tool
 - name: 趣站
   icon: fas fa-face-smile
