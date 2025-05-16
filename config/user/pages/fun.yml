@@ -6,7 +6,7 @@ categories:
     icon: fas fa-face-smile
     sites:
       - name: 自由钢琴
-        icon: fas fa-piano-keyboard
+        icon: fas fa-music
         description: 在线弹钢琴
         url: "https://www.autopiano.cn"
       - name: 世界的声音
