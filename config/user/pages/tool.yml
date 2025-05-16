@@ -64,7 +64,7 @@ categories:
         description: 文件格式在线转换
         url: "https://www.alltoall.net"
       - name: 文本比较
-        icon: fas fa-files
+        icon: fas fa-file
         description: 对比两个文本的差异
         url: "https://charactercalculator.com/zh-cn/text-compare"
       - name: 在线工具
