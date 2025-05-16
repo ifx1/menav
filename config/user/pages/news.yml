@@ -1,24 +1,24 @@
-title: 资讯
-subtitle: 最新消息
+title: 新闻
+subtitle: 现实之中
 template: news
 categories:
   - name: 最新资讯
     icon: fas fa-newspaper
     sites:
       - name: 今日热榜
-        icon: 
+        icon: fas fa-fire
         description: 全网热点聚合助手
         url: "https://tophub.today"
       - name: 百度热搜
-        icon: 
+        icon: fas fa-fire
         description: 百度实时热点
         url: "https://top.baidu.com/board?tab=realtime"
       - name: 微博热搜
-        icon: 
+        icon: fas fa-fire
         description: 微博实时热点
         url: "https://s.weibo.com/top/summary?cate=realtimehot"
       - name: 网易新闻
-        icon: 
+        icon: fas fa-newspaper
         description: 网易新闻
         url: "https://news.163.com"
         
